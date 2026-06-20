@@ -4,7 +4,6 @@
 /third-party
 /.project
 /.vagrant
-/.vscode
 /.settings
 /cpu.pprof
 /assets/app/config.local.js
@@ -32,3 +31,5 @@ vendor/github.com/prometheus/procfs/fixtures/26231/exe
 /openshift-tests
 /disruption
 /update-tls-artifacts
+config.bat
+node_modules
